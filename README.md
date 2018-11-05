@@ -7,4 +7,3 @@ Includes:
 1. Skating: Sonified - Max for Live device
 2. Data Collection patch
 3. LED ring Arduino code
-4. Ableton Live set contents
